@@ -1,5 +1,5 @@
 use std::io::{self, BufRead};
-pub fn part2() {
+pub fn main() {
     let stdin = io::stdin();
     let lines = stdin.lock().lines();
 
